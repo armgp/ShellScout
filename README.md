@@ -35,3 +35,7 @@
     Now run the following commands<br>
     $ g++ main.cpp<br>
     $ ./a.out<br>
+    
+## Screenshots
+![terminalExplorer](https://user-images.githubusercontent.com/49094298/210721159-4fa7f127-1b27-4f4d-8b3b-ef81e5a16bed.gif)
+
